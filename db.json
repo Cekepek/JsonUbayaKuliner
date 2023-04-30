@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "restaurant": [
     {
       "id": 1,
-      "title": "hello"
+      "nama": "Mie Ayam Saerah"
+      "Alamat" : "Depan RMS"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "review": {
+    "name": "Bambang"
+    "review" : "Tidak Enak"
+    "resto_id": 1
   }
 }
