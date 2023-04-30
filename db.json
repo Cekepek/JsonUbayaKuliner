@@ -6,9 +6,11 @@
       "Alamat" : "Depan RMS"
     }
   ],
-  "review": {
+  "review": [
+    {
     "name": "Bambang"
     "review" : "Tidak Enak"
     "resto_id": 1
   }
+    ]
 }
