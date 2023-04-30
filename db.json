@@ -2,14 +2,14 @@
   "restaurant": [
     {
       "id": 1,
-      "nama": "Mie Ayam Saerah"
+      "nama": "Mie Ayam Saerah",
       "Alamat" : "Depan RMS"
     }
   ],
   "review": [
     {
-    "name": "Bambang"
-    "review" : "Tidak Enak"
+    "name": "Bambang",
+    "review" : "Tidak Enak",
     "resto_id": 1
     }
    ],
