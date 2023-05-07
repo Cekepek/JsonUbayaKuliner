@@ -27,5 +27,12 @@
       "review": "Ga Enak",
       "restoId": 1
     }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "username": "ckpk",
+      "password": "123"
+    }
   ]
 }
