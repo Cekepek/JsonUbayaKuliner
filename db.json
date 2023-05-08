@@ -47,6 +47,7 @@
       "password": "123",
       "name": "Christopher Kelvin",
       "studentId": "160420021",
-      "phone": "081232323685"
+      "phone": "081232323685",
+      "profilePic": "https://i.pravatar.cc"
     }
 }
