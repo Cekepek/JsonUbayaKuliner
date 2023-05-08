@@ -41,11 +41,9 @@
       "restoId": "1"
     }
   ],
-  "accounts": [
-    {
+  "profile": {
       "id": "1",
       "username": "ckpk",
       "password": "123"
     }
-  ]
 }
