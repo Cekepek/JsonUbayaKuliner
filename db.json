@@ -24,7 +24,7 @@
   "reviews": [
     {
       "id": "1",
-      "username": "Budi"
+      "username": "Budi",
       "review": "Ga Enak",
       "restoId": 1
     }
