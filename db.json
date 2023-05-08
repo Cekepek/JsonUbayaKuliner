@@ -44,6 +44,9 @@
   "profile": {
       "id": "1",
       "username": "ckpk",
-      "password": "123"
+      "password": "123",
+      "name": "Christopher Kelvin",
+      "StudentId": "160420021",
+      "Phone": "081232323685"
     }
 }
