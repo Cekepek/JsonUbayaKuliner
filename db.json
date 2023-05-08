@@ -41,6 +41,12 @@
       "restoId": "1"
     }
   ],
+  "favorites":[
+    {
+      "id": "1",
+      "restoId": "1"
+    }
+  ],
   "profile": {
       "id": "1",
       "username": "ckpk",
