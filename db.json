@@ -35,6 +35,18 @@
       "review": 2,
       "favorite": false,
       "reviewed": true
+    },
+    {
+      "id": "4",
+      "nama": "Depot LH",
+      "alamat": "Jl. Tenggilis Mejoyo Selatan Blok Am No. 3, Rungkut, Surabaya",
+      "noTelp": "081359797029",
+      "description": "Depot Vegetarian murah yang berada di dekat Ubaya. Menjadi tujuan bagi mahasiswa yang ingin makanan sehat dan enak.",
+      "photo": "https://lh3.googleusercontent.com/p/AF1QipPNkeMhgeSFyE-uC_l-imKK4ZPmKbWfaz_cc08D=s680-w680-h510",
+      "rating": 3.5,
+      "review": 1,
+      "favorite": true,
+      "reviewed": false
     }
   ],
   "reviews": [
@@ -86,6 +98,13 @@
       "userId": "4",
       "review": "Ayam bakar nya enak banget",
       "restoId": "2"
+    },
+    {
+      "id": "8",
+      "username": "Budi",
+      "userId": "3",
+      "review": "Enak dan udah fix makanan sehat ",
+      "restoId": "4"
     }
   ],
   "profile": {
