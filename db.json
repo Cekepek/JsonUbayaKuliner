@@ -9,7 +9,8 @@
       "photo": "https://lh3.googleusercontent.com/p/AF1QipNWJWLUYNdP-np81hBTTLxjv8JC2fbJaT7tcabv=s1360-w1360-h1020",
       "rating": 4.5,
       "review": 10,
-      "favorite": true
+      "favorite": true,
+      "reviewed":true
     },
     {
       "id": "2",
@@ -20,7 +21,8 @@
       "photo": "https://lh5.googleusercontent.com/p/AF1QipPaHcCsEW1yncySJNbxONH7-Zj1IAzraR3A-j2w=w213-h160-k-no",
       "rating": 4.2,
       "review": 4,
-      "favorite": true
+      "favorite": true,
+      "reviewed":false
     }
   ],
   "reviews": [
