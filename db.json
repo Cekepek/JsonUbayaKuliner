@@ -29,19 +29,29 @@
     {
       "id": "1",
       "username": "Budi",
+      "userId": "3",
       "review": "Ga Enak",
       "restoId": "1"
     },
     {
       "id": "2",
       "username": "Bambang",
+      "userId": "2",
       "review": "Murah Banget",
       "restoId": "1"
     },
     {
       "id": "3",
       "username": "Sutejo",
+      "userId": "4",
       "review": "lokasi nyaman, makanan enak, harga murah top deh pokoknya",
+      "restoId": "1"
+    },
+    {
+      "id": "4",
+      "username": "Christopher Kelvin",
+      "userId": "1",
+      "review": "Langganan Sehabis Kuliah !!",
       "restoId": "1"
     }
   ],
